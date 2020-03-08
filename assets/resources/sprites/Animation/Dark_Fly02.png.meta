@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "1b7e58ae-42e8-4688-b0b1-4ac011ac2490",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "Dark_Fly02": {
+      "ver": "1.0.4",
+      "uuid": "de95b566-73d4-4634-bdb9-a52a925b1078",
+      "rawTextureUuid": "1b7e58ae-42e8-4688-b0b1-4ac011ac2490",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 19,
+      "trimY": 19,
+      "width": 59,
+      "height": 59,
+      "rawWidth": 96,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

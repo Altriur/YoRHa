@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "290f74f7-0324-4e9c-94b7-688479e4ad3a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "Player_Attack_Sky_Left02": {
+      "ver": "1.0.4",
+      "uuid": "14d24fbb-8ab4-49af-8591-e82926f36aa0",
+      "rawTextureUuid": "290f74f7-0324-4e9c-94b7-688479e4ad3a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 18,
+      "trimY": 17,
+      "width": 64,
+      "height": 67,
+      "rawWidth": 100,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

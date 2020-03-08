@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Leaves_Break",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6666666666666666,
+  "sample": 3,
+  "speed": 3,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "86824f40-0ac3-4d8b-87af-e98d1c4f83a4"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "e4278a72-fbda-41c7-9a00-edbb54b5d0e7"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

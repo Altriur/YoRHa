@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Boss_Monster_Destroy",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4,
+  "sample": 1,
+  "speed": 3,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "4585839e-2470-4e82-8479-f92d1e554144"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "9462f1c4-4b8d-4ccb-b24a-859c7e0cd015"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "d1b6ab63-1144-4dae-932a-b856d855e901"
+            }
+          },
+          {
+            "frame": 3,
+            "value": {
+              "__uuid__": "28953b85-82bc-4a67-a25b-4c1879058a3b"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

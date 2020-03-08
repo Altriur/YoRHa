@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Dark_Break",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 3,
+  "speed": 3,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "37946235-3d1d-4f5f-a84d-3369cc29581e"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "78879ce7-28da-4aeb-9cfe-612d863ffb44"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "0f1a05d4-05db-4509-b258-466ef7202e08"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

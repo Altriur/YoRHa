@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Enemy_Aim_Left2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 1,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "66927de5-6c0c-4d9b-8beb-746f0982d1d7"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

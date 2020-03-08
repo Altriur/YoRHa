@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Boss_Hitted_Left1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 1,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a376f52f-6f6b-4700-95cf-ecda9fcf0fc5"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

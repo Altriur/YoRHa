@@ -1,0 +1,99 @@
+{
+  "group-list": [
+    "default",
+    "Player",
+    "Obstruction",
+    "Enemy",
+    "Attack",
+    "Defense",
+    "Magic"
+  ],
+  "collision-matrix": [
+    [
+      false,
+      false,
+      null,
+      false,
+      null,
+      null,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      null,
+      true
+    ],
+    [
+      false,
+      true,
+      true,
+      true,
+      null,
+      null,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false
+    ]
+  ],
+  "excluded-modules": [],
+  "last-module-event-record-time": 1576248403178,
+  "design-resolution-width": 960,
+  "design-resolution-height": 640,
+  "fit-width": false,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "assets-sort-type": "name",
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "start-scene": "b5bc9df6-8099-493c-bafe-d4724ef23ddf"
+}

@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Fireball_Fly",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 3,
+  "speed": 3,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "639a7e28-cb61-4f86-8dbd-ef1d94435fbc"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "e7ed7b4a-3f0c-4b5e-9751-0ed3cda2f5a8"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "07cd6ff6-207b-467e-a1c0-49a1437d3601"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,93 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Blast_Break",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 4,
+  "speed": 3,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b4d94fbb-d4f5-4c76-a5f8-a063d356d72b"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "a0f789f8-295d-4c20-8e7b-cddcdf8ef90e"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "d69aa862-62b3-4139-ae62-825156c4ce11"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "d178f198-2dcb-407a-89ab-4eb8e4e88d2a"
+            }
+          }
+        ]
+      },
+      "cc.CircleCollider": {
+        "radius": [
+          {
+            "frame": 0,
+            "value": 7
+          },
+          {
+            "frame": 0.5,
+            "value": 7
+          },
+          {
+            "frame": 0.75,
+            "value": 0
+          }
+        ]
+      },
+      "cc.PhysicsCircleCollider": {
+        "radius": [
+          {
+            "frame": 0,
+            "value": 7
+          },
+          {
+            "frame": 0.5,
+            "value": 7
+          },
+          {
+            "frame": 0.75,
+            "value": 0
+          }
+        ]
+      }
+    },
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 6,
+            "y": 6
+          }
+        }
+      ],
+      "angle": [
+        {
+          "frame": 0,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,19 @@
+{
+  "package": "com.game.Melee_Mage",
+  "name": "原时法师",
+  "icon": "D:\\Storage\\CocosCreator\\Melee_Mage\\assets\\resources\\sprites\\Character\\Player\\Player_Stand_Right.png",
+  "versionName": "1.0.0",
+  "versionCode": "1",
+  "minPlatformVersion": "1050",
+  "deviceOrientation": "landscape",
+  "logLevel": "log",
+  "tinyPackageMode": false,
+  "tinyPackageServer": "",
+  "useDebugKey": true,
+  "privatePath": "",
+  "certificatePath": "",
+  "disabledMode": "disabled is-disabled",
+  "npmPath": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false
+}

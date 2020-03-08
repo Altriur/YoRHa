@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Leaves_Fly",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 8,
+  "speed": 3,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8fc33ff4-c5ce-4236-96ff-d2a348949084"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "093fa5dc-74f8-4be5-a216-6bb806800076"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "1bde3820-3b23-4a47-a25f-e2304145d5ee"
+            }
+          },
+          {
+            "frame": 0.375,
+            "value": {
+              "__uuid__": "3d573f09-8d03-451a-9b4f-6cc227167588"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

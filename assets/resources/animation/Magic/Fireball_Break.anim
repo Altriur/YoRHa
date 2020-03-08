@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Fireball_Break",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6666666666666666,
+  "sample": 3,
+  "speed": 3,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "babd8b24-a5e2-49bc-a1cc-fd1ee8c01e2e"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "bf3da601-7398-4f5e-9497-ea5fe3425779"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "angle": [
+        {
+          "frame": 0,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Enemy_Walk_Right2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 3,
+  "speed": 3,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "aa725d9c-5518-49f6-a8ac-41f3fc1f9cc4"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "457b4b61-e757-45ba-beca-6967022513af"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "ffb456d2-2261-46a8-8d05-0bfa61580707"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

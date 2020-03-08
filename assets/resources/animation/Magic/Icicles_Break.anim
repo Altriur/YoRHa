@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Icicles_Break",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6666666666666666,
+  "sample": 3,
+  "speed": 3,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "af64025d-e11f-41b9-9b83-7fd5f6dd45f8"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "84cbd4ef-ff73-4c06-b9bd-bad849542b41"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "angle": [
+        {
+          "frame": 0,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Boss_Monster_Stay",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 1,
+  "speed": 3,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d3819bac-f6eb-4609-b15f-e72270291d96"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "75517e84-420d-40e8-b202-eeec62c152a1"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "81f7bc48-1e47-468a-8034-5e4e576f2165"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

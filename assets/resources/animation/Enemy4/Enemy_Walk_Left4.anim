@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Enemy_Walk_Left4",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 3,
+  "speed": 3,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "6e629954-e0c8-41be-a4b2-7d4b7ca63868"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "4e0a26d2-4fe5-4443-8a04-61f46e37b31a"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "8892e676-6d8a-430a-80ed-a85590939ed9"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

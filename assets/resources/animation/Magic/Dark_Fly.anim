@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Dark_Fly",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 3,
+  "speed": 3,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "05ea2270-8ff3-4fab-b0c4-a45bfb053f45"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "de95b566-73d4-4634-bdb9-a52a925b1078"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "3d9e13b1-58f4-4d96-8d17-4cc18ae0e6de"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
